@@ -1,11 +1,11 @@
-# 📚 Generalised Data Structures Library
+#  Generalised Data Structures Library
 
 **Technology:** C++ Programming  
 **Category:** Data Structures & Algorithms  
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project is a **C++ library of generic data structures** that provides **object-oriented implementations** of both **linear and non-linear data structures**.  
 
 It offers **ready-to-use functionalities** for fundamental as well as advanced operations, designed in a **generic way using templates**, so they can be reused with **any data type**.
@@ -14,9 +14,9 @@ The library is designed with **OOP principles** (encapsulation, modularity, and 
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### 🔹 Linear Data Structures
+###  Linear Data Structures
 - Singly Linked List  
 - Singly Circular Linked List  
 - Doubly Linked List  
@@ -24,10 +24,10 @@ The library is designed with **OOP principles** (encapsulation, modularity, and 
 - Stack (LIFO)  
 - Queue (FIFO)  
 
-### 🔹 Non-Linear Data Structures
+###  Non-Linear Data Structures
 - Binary Search Tree (**BST**) with Insert, Delete, Traversal operations  
 
-### 🔹 Algorithms
+###  Algorithms
 - Searching (Linear Search, Binary Search)  
 - Sorting (Bubble Sort, Selection Sort, Insertion Sort, etc.)  
 
@@ -40,7 +40,7 @@ The library is designed with **OOP principles** (encapsulation, modularity, and 
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 - Mastery of **C++ Object-Oriented Programming (OOP)** principles  
 - Strong foundation in **linear & non-linear data structures**  
 - Hands-on experience with **generic programming using templates**  
@@ -49,7 +49,7 @@ The library is designed with **OOP principles** (encapsulation, modularity, and 
 
 ---
 
-## 📂 Example Usage
+##  Example Usage
 
 ```cpp
 int main() {
